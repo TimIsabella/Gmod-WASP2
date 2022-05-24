@@ -1,1 +1,1 @@
-### WASP 2 - Multipourpose Bot for Gmod
+### WASP 2 - Multipurpose Bot for Gmod
