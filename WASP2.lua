@@ -1,4 +1,4 @@
-@name WASP 2 - Multipourpose Bot (Gunnanmon)
+@name WASP 2 - Multipourpose Bot
 
 @inputs Target:entity
 @inputs NumZero NumPeriod NumPlus NumEnter NumSlash
