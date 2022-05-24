@@ -1,4 +1,4 @@
-@name WASP 2 - Multipourpose Bot
+@name WASP 2 - Multipurpose Bot
 
 @inputs Target:entity
 @inputs NumZero NumPeriod NumPlus NumEnter NumSlash
